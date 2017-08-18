@@ -1,6 +1,6 @@
 # strato-azure-setup
 
-I had the same issue when setting up with Azure instance. I had to create and delete instances several times to get the right configurations to work. But once you get it right it works like a charm.
+I had the some issue when setting up with Azure instance first time. I had to create and delete instances several times to get the right configurations to work. But once you get it right it works like a charm.
 
 Here is what you need to check when you are creating the instance on azure:
 1. There are couple different flavor of instances (individual node, single-node, multi-node) that you can pick from. In my case I picked individual node.
@@ -22,3 +22,5 @@ Follow this link if you need to setup new key: https://docs.microsoft.com/en-us/
 
 Now you should be able to access your strato dashboard at http://example.eastus.cloudapp.azure.com/
 with ID: admin and Password: admin
+
+Let me know incase you have trouble setting up.
