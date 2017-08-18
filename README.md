@@ -22,5 +22,3 @@ Follow this link if you need to setup new key: https://docs.microsoft.com/en-us/
 
 Now you should be able to access your strato dashboard at http://example.eastus.cloudapp.azure.com/
 with ID: admin and Password: admin
-
-Let me know if this solution works for you. @kishorebhatia you can mark issue as resolved.
